@@ -5,12 +5,14 @@ import pymysql.cursors
 from threading import Thread
 import time
 import datetime
-import TopSecret
+
+import TopSecret #File with password, ip-host, name-user and DB.
 # Программа: Получение мак адресса по ip
+#Programms for get mac-adress by ip in local net!
 
 # основная часть программы.
 
-# Получение настроек.
+# Получение настроек. // Settings
 # Создание переменных под будущие настройки.
 ip_1Lvl_min = 0
 ip_2Lvl_min = 0
