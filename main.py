@@ -1,2 +1,6 @@
 #Two free warpaas If take. EHHHHH!
-print("rwerwerewr");
+print("rwerwerewr")
+
+def taktaktak(self):
+    pass
+
